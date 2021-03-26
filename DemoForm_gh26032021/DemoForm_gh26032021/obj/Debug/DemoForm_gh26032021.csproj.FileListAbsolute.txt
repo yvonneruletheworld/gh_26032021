@@ -1,0 +1,12 @@
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\bin\Debug\DemoForm_gh26032021.exe.config
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\bin\Debug\DemoForm_gh26032021.exe
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\bin\Debug\DemoForm_gh26032021.pdb
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.csprojAssemblyReference.cache
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.FormConfig.resources
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.FormLogin.resources
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.FormMain.resources
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.Properties.Resources.resources
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.csproj.GenerateResource.cache
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.csproj.CoreCompileInputs.cache
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.exe
+D:\BUZZ\GITHUB\gh_26032021\DemoForm_gh26032021\DemoForm_gh26032021\obj\Debug\DemoForm_gh26032021.pdb
