@@ -49,6 +49,7 @@
             this.button2.TabIndex = 19;
             this.button2.Text = "CANCEL";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label4
             // 
@@ -68,6 +69,7 @@
             this.cboDB.Name = "cboDB";
             this.cboDB.Size = new System.Drawing.Size(222, 28);
             this.cboDB.TabIndex = 17;
+            this.cboDB.DropDown += new System.EventHandler(this.cboDB_DropDown);
             // 
             // label3
             // 
@@ -106,6 +108,7 @@
             this.button1.TabIndex = 13;
             this.button1.Text = "SAVE";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 

@@ -18,5 +18,18 @@ namespace DemoForm_gh26032021
             dataTable = SqlDataSourceEnumerator.Instance.GetDataSources();
             return dataTable;
         }
+
+        // get all database
+
+        public DataTable getDataBase( string server, string user, string pass)
+        {
+            DataTable dataTable = new DataTable();
+            SqlDataAdapter dataAdapter = new SqlDataAdapter(
+                "select name form sys.Database", "Data Source="+server+ ";Initial Catalog = master; User ID=" + user+ "; Password=" + pass +"");
+            dataAdapter.Fill(dataTable);
+            if (dataTable.Rows.Count == 0)
+                return null;
+            return dataTable;
+        }
     }
 }
